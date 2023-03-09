@@ -1,9 +1,9 @@
-#Andrei Iarovikov
+# Andrei Iarovikov
 
-###Junior Fronend Developer
+### Junior Fronend Developer
 
 ---
-##Contact information:
+## Contact information:
 
 **Phone:**
 **Telegram** @yaro_yaro, 
