@@ -1,3 +1,3 @@
 # rsschool-cv
 
-**gh-pages:** https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+**gh-pages:** https://andreyyaro.github.io/rsschool-cv/cv
