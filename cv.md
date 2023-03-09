@@ -26,7 +26,7 @@ Hi, i am Andrei and I decided to change my career track to make the job interest
 ---
 
 **Education:** 
-Moscow Power Energicity Institute(Technical University)
+ - Moscow Power Energicity Institute(Technical University)
 
 ---
 
